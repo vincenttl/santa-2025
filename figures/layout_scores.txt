@@ -1,0 +1,5 @@
+Layout comparison results
+trees=25
+seed=0
+spread_score=2.617465
+magnet_score=0.117490
